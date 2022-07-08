@@ -1,3 +1,6 @@
+//Project idea = Jainish Prajapati
+//Author = Jainish Prajapati
+
 inline int product(int x,int y)
 {
     return x*y;

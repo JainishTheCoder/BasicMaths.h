@@ -1,7 +1,6 @@
 //Project idea = Jainish Prajapati
 
 //Author = Jainish Prajapati
-//         Prakhar Parikh
 
 inline int product(int x,int y)
 {
